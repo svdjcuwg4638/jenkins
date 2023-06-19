@@ -7,6 +7,8 @@
     <h1>modify finish</h1>
     <h1>modify finish</h1>
     <h1>modify finish</h1>
+    <h1>modify finish</h1>
+    <h1>modify finish</h1>
     <h1>${msg}</h1>
     <h1>Hi, there (updated by dowon)</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
